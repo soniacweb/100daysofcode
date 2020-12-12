@@ -13,4 +13,4 @@ Here's Buddy, the bear! My first stab at creating an animal with pure HTML and C
 
 The link to my codepen project can be found <a href="https://codepen.io/soniaweb/pen/bGwBJYj?editors=1100">here</a>. I really welcome anyone reading this to fork and see if you can build off of it. 👍
 
-<img src="https://imgur.com/BrOIwZy" />
+<img src="./Screenshot 2020-12-12 at 16.21.23.png" />
