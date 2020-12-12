@@ -7,7 +7,7 @@
 ### Week 1
 Day 1. Bear Cub
 
-This took a few shapes, positioning, and learning the important of `z-index`.
+This took a few shapes, positioning, and learning the importance of `z-index`.
 
 Here's Buddy, the bear! My first stab at creating an animal with pure HTML and CSS.
 
