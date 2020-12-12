@@ -2,7 +2,7 @@
 
 ## 100 Days of Code Challenge:
 
-💭 I got inspired by Brittany Walker's Code like a Girl's blog detailing her journey taking on the challange and wanted to documement my own journey covering CSS, HTML, JavaScript and various libraries frameworks along the way.
+💭 I got inspired by Brittany Walker's Code like a Girl's blog detailing her journey taking on the challange and wanted to document my own journey covering CSS, HTML, JavaScript and various libraries and frameworks along the way.
 # Daily CSS Images 
 ### Week 1
 Day 1. Bear Cub
