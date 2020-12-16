@@ -138,10 +138,10 @@ Where will it be and what will it show?
 Day 39. Keyboard
 There are more keyboards than you may initially think. Keep up the creativity.
 
-Day 40. Nintendo 2DS
+### Day 40. Nintendo 2DS
 Put your creative hat on to wrap up this week.
 
-Michael's original challenge focused on creating just the face and if we wanted to challenge ourselves, we could add whatever we liked. The link to my codepen project can be found <a href="https://codepen.io/soniaweb/pen/YzGVwQP?editors=1100">here</a>.
+The link to my codepen project can be found <a href="https://codepen.io/soniaweb/pen/YzGVwQP?editors=1100">here</a>.
 
 <img src="./Screenshot 2020-12-16 at 18.04.24.png" />
 
